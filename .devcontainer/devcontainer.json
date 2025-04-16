@@ -1,0 +1,15 @@
+{
+    "name": "LangChain Transformers",
+    "image": "mcr.microsoft.com/devcontainers/python:3.10",
+    "postCreateCommand": "pip install langchain transformers huggingface_hub openai",
+    "features": {
+      "ghcr.io/devcontainers/features/python:1": {
+        "version": "3.10"
+      }
+    },
+    "extensions": [
+      "ms-python.python",
+      "ms-toolsai.jupyter"
+    ]
+  }
+  
