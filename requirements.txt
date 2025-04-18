@@ -5,3 +5,8 @@ huggingface_hub
 langchain_community
 langchain-huggingface
 accelerate
+gradio
+langchain-core
+langchain-community
+langchain-cohere
+python-dotenv
